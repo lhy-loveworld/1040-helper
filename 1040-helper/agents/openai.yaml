@@ -1,0 +1,4 @@
+interface:
+  display_name: "1040 Helper"
+  short_description: "Draft auditable 1040 inputs from tax documents"
+  default_prompt: "Use $1040-helper to organize my tax documents and prepare an auditable Form 1040 draft."

@@ -1,0 +1,4 @@
+.tax_work/
+__pycache__/
+*.py[cod]
+.venv/
